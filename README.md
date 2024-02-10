@@ -17,8 +17,8 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![K8S](https://img.shields.io/badge/-K8S-05122A?style=flat&logo=kubernetes)&nbsp;
 ![Mermaid](https://img.shields.io/badge/-Mermaid-05122A?style=flat&logo=mermaid)&nbsp;
 ![Phoenix](https://img.shields.io/badge/-Phoenix-05122A?style=flat&logo=phoenixframework)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VScode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
